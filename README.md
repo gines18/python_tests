@@ -3,6 +3,8 @@
 ## Description
 Testing is essential to every project. It helps to spot errors in code on every project stage. 
 
+<img src="https://github.com/gines18/python_tests/blob/main/img/Screenshot%202023-11-11%20at%2019.56.14.png">
+
 ## Table of Contents
 - [Installation](#installation)
 - [Running Tests](#running-tests)
@@ -22,7 +24,7 @@ In cast of any problems review your code and test it again
 ##Contributing
 Add your own tests and create a pull request
 
-##Licence
+##License
 N/A
 
 
